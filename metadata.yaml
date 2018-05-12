@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25592
     wikipedia: http://en.wikipedia.org/wiki/Henry_James_Sumner_Maine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22910#Ancient-Law--Its-Connection-to-the-History-of-Early-Society
 gutenberg_issued: '2007-10-07'
 gutenberg_type: Text
 identifiers:
